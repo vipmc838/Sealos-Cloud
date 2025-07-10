@@ -1,6 +1,6 @@
 ### V1版哪吒面板，自动备份。
 
-### Sealos Cloud官网( 注册双方各得 10元余额奖励)：[点击进入官网註册](https://cloud.sealos.run/?uid=tkiqhrqlz3)
+### Sealos Cloud官网( 注册双方各得 10元余额奖励)：[点击进入官网註册](https://cloud.sealos.run/?uid=tkiqhrqlz3)邀请码：tkiqhrqlz3
 
 安装好第一件事，**必须进面板改密码**
 
