@@ -16,6 +16,9 @@ WEBDAV_URL | 填写你的WEBDAV地址 | 用于哪吒配置文件备份 |
 WEBDAV_USER | 填写你的WEBDAV用户名 | 用于哪吒配置文件备份 |
 WEBDAV_PASS | 填写你的WEBDAV密码 | 用于哪吒配置文件备份 |
 NZ_UUID | 面板当前所在的agent的uuid | 用于监测面板docker的状态 |
-NZ_CLIENT_SECRET | 哪吒面板的.yaml文件设置的固定key | 文件中的agentsecretkey所对应的参数 |
-NZ_TLS | 哪吒面板的TLS | 启用 TLS（true/false） |
-DASHBOARD_VERSION | 需要部署的探针等级,格式：`v1.12.2`| 不填:最新版本。 |
+NZ_CLIENT_SECRET | 哪吒面板的.yaml文件设置的固定key | 文件中的agentsecretkey所对应的参数 默认:kxU90rEPN7XsgDJp0qCG87UGdFYoTFkE|
+NZ_TLS | 哪吒面板的TLS | 启用 TLS（true/false） 默认:false|
+DASHBOARD_VERSION | 需要部署的探针等级,格式：`v1.12.2`| 默认:最新版本。 |
+
+
+### 第一次安装 Agent 不上线的，要备份后拿到config.yaml文件设置的固定key，文件中的agentsecretkey所对应的参数 
