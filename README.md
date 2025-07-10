@@ -26,3 +26,7 @@ DASHBOARD_VERSION | 需要部署的探针等级,格式：`v1.12.2`| 默认:最�
 
 
 #### 第一次安装 Agent 不上线的，要备份后拿到config.yaml文件设置的固定key，文件中的agentsecretkey所对应的参数 填写NZ_CLIENT_SECRET重启后才能上线。
+
+#### 每天中午2点和晚上2点自动备份。
+
+#### 手动备份进入ssh：cd / && ./backup.sh backup
