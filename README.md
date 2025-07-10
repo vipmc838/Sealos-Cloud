@@ -18,4 +18,4 @@ WEBDAV_PASS | 填写你的WEBDAV密码 | 用于哪吒配置文件备份 |
 NZ_UUID | 面板当前所在的agent的uuid | 用于监测面板docker的状态 |
 NZ_CLIENT_SECRET | 哪吒面板的.yaml文件设置的固定key | 文件中的agentsecretkey所对应的参数 |
 NZ_TLS | 哪吒面板的TLS | 启用 TLS（true/false） |
-DASHBOARD_VERSION | 需要部署的探针等级,格式：`v1.12.2` 不填:最新版本。 |
+DASHBOARD_VERSION | 需要部署的探针等级,格式：`v1.12.2`| 不填:最新版本。 |
