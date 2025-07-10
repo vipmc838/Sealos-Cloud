@@ -21,4 +21,4 @@ NZ_TLS | 哪吒面板的TLS | 启用 TLS（true/false） 默认:false|
 DASHBOARD_VERSION | 需要部署的探针等级,格式：`v1.12.2`| 默认:最新版本。 |
 
 
-### 第一次安装 Agent 不上线的，要备份后拿到config.yaml文件设置的固定key，文件中的agentsecretkey所对应的参数 
+#### 第一次安装 Agent 不上线的，要备份后拿到config.yaml文件设置的固定key，文件中的agentsecretkey所对应的参数 填写NZ_CLIENT_SECRET重启后才能上线。
