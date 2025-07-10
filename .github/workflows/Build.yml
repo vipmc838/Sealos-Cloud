@@ -1,4 +1,4 @@
-name: Build and Push QingLong Docker Image
+name: Docker 镜像打包
 
 on:
   workflow_dispatch:
