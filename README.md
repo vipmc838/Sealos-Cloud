@@ -29,4 +29,4 @@ DASHBOARD_VERSION | 需要部署的探针等级,格式：`v1.12.2`| 默认:最�
 
 #### 每天中午2点和晚上2点自动备份。
 
-#### 手动备份进入ssh：cd / && ./backup.sh backup
+#### 手动备份进入ssh：```cd / && ./backup.sh backup```
