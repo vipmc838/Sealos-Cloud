@@ -1,6 +1,8 @@
 ### V1版哪吒面板，自动备份。
 
-### Sealos Cloud官网( 注册双方各得 10元余额奖励)：[点击进入官网註册](https://cloud.sealos.run/?uid=tkiqhrqlz3) 邀请码：tkiqhrqlz3
+### Sealos Cloud官网：[点击进入Sealos Cloud官网註册](https://cloud.sealos.run/?uid=tkiqhrqlz3) 邀请码：tkiqhrqlz3  册时输入此推荐码即可双方各得 10元余额奖励！
+
+### 没有WEBDAV存储去这里：[点击进入InfiniCLOUD官网註册](https://infini-cloud.net/en) 邀请码：PPMZC  注册时输入此推荐码即可获得5GB免费InfiniCLOUD存储！
 
 搭建好的效果：https://www.nezha.app.tc
 
