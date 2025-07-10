@@ -32,6 +32,7 @@ ghcr.io/vipmc838/sealos-cloud/nezha-v1:latest
   - WebDAV Connection URL  WebDAV 连接 URL	https://gima.teracloud.jp/dav/
   - Connection ID  连接 ID WEBDAV用户名
   - Apps Password  应用程序密码 WEBDAV密码
+  - 进入File Browser 新建文件夹 WebDAV 连接 URL	https://gima.teracloud.jp/dav/backup/
 
   
 必须设置的变量
