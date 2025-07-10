@@ -12,6 +12,28 @@ Docker镜像地址
 ```
 ghcr.io/vipmc838/sealos-cloud/nezha-v1:latest
 ```
+
+### 前置准备
+1. **CloudFlare开启GRPC流量代理**
+
+2. **设置 Tunnel Public hostname**
+
+  - Type: `HTTPS`
+  - URL: `localhost:443`
+  - Additional application settings
+    - TLS
+      - No TLS Verify: `on`
+      - HTTP2 connection: `on`
+  - **记录 argo 域名和 token 备用**
+
+3. **WEBDAV存储**
+
+  - Turn on Apps Connection  打开应用程序连接
+  - WebDAV Connection URL  WebDAV 连接 URL	https://gima.teracloud.jp/dav/
+  - Connection ID  连接 ID WEBDAV用户名
+  - Apps Password  应用程序密码 WEBDAV密码
+
+  
 必须设置的变量
 
 | 变量 | 值 | 备注 |
