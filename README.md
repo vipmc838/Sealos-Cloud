@@ -40,7 +40,7 @@ ghcr.io/vipmc838/sealos-cloud/nezha-v1:latest
 
 | 变量 | 值 | 备注 |
 | --- | --- | --- |
-ARGO_AUTH | 1.像eyJhIjoi.......类似,映射端口，只需要80端口就行了 | 2.从[cloudflared Tunnels](https://one.dash.cloudflare.com/)获取的 Argo Token | 
+ARGO_AUTH | 1.像eyJhIjoi.......类似,映射端口，只需要443端口就行了 | 2.从[cloudflared Tunnels](https://one.dash.cloudflare.com/)获取的 Argo Token | 
 ARGO_DOMAIN | 哪吒的访问域名,格式：`www.abc.com` | 用于面板访问和探针上报使用 |
 WEBDAV_URL | 填写你的WEBDAV地址 | 用于哪吒配置文件备份 |
 WEBDAV_USER | 填写你的WEBDAV用户名 | 用于哪吒配置文件备份 |
