@@ -4,7 +4,7 @@
 
 ### 没有WEBDAV存储去这里：[点击进入InfiniCLOUD官网註册](https://infini-cloud.net/en) 邀请码：PPMZC  注册时输入此推荐码即可获得5GB免费InfiniCLOUD存储！
 
-搭建好的效果：https://www.nezha.app.tc
+搭建好的效果：https://nezha.sld.tw
 
 安装好第一件事，**必须进面板改密码**
 
